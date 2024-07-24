@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAMA TOKOH</title>
+</head>
+<body>
+    <h1>NAMA TOKOH DALAM CERITA</h1>
+    <OL>DAFTAR TOKOH</OL>
+    <li>Timun Mas</li>
+    <li>Ibu Timun Mas</li>
+    <li>Ayah Timun Mas</li>
+    <li>sepupuh timun mas</li>
+    <li>Butho Ijo/ Siluman jahat</li>
+   <div style="text-align: center;">
+    <img src="timunlol.jpg" alt=""width="500"></div>
+    <a href="timun mas.HTML">kembali</a>
+</body>
+</html>
